@@ -1,3 +1,3 @@
-# xd_singleton 💻
+# PHP Singleton 💻
 
 > Singleton implementation on DB
