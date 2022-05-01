@@ -1,1 +1,3 @@
-# xd_singleton
+# xd_singleton 💻
+
+> Singleton implementation on DB
